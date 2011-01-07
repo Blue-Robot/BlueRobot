@@ -1,0 +1,11 @@
+.settings
+.classpath
+.project
+*.class
+test-result/
+tmp/
+eclipse/
+cobertura.ser*
+*.log
+logs/
+public/data/data*

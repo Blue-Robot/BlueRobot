@@ -1,8 +1,0 @@
-07 Jan 2011 10:43:11,140 INFO  ~ Starting /home/clood/BlueRobot/MyAgenda
-07 Jan 2011 10:43:11,764 INFO  ~ 
-07 Jan 2011 10:43:11,764 INFO  ~ Go to http://localhost:9000/@tests to run the tests
-07 Jan 2011 10:43:11,764 INFO  ~ 
-07 Jan 2011 10:43:11,765 WARN  ~ You're running Play! in DEV mode
-07 Jan 2011 10:43:11,847 INFO  ~ Listening for HTTP on port 9000 (Waiting a first request to start) ...
-07 Jan 2011 10:43:18,315 INFO  ~ Connected to jdbc:hsqldb:mem:playembed
-07 Jan 2011 10:43:18,851 INFO  ~ Application 'MyAgenda' is now started !
