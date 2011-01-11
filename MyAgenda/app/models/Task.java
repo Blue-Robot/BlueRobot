@@ -9,7 +9,11 @@ import play.db.jpa.*;
 public class Task extends Model{
 	public String name;
 	
-	public Task(String name) {
+	@ManyToOne
+	public Table table;
+	
+	public Task(String name, Table table) {
 		this.name = name;
+		this.table = table;
 	}
 }
